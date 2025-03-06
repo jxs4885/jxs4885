@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**jxs4885/jxs4885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me 👋
+Heading	# H1
+## H2
+### H3
+Bold	**bold text**
+Italic	*italicized text*
+Blockquote	> blockquote
+Ordered List	1. First item
+2. Second item
+3. Third item
+Unordered List	- First item
+- Second item
+- Third item
+Code	`code`
+Horizontal Rule	---
+Link	[title](https://www.example.com)
+Image	![alt text](image.jpg)
